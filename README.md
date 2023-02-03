@@ -2,6 +2,6 @@
 
 Welcome to nothing-to-do!
 
-In this repositories, you will make strange apps using React Native.
+In this repository, you will make strange apps using React Native.
 
 ~~or play tetris~~
